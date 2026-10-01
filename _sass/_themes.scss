@@ -1,0 +1,16 @@
+:root {
+  --bg: #fff;
+  --text: #000;
+  --muted: #828282;
+  --accent: #{$accent-light};
+  --divider: #{$divider-light};
+  --code-bg: rgba(249,32,128,.05);
+}
+html[data-theme="dark"] {
+  --bg: #1c1c1d;
+  --text: #e0e0e0;
+  --muted: #bdbdbd;
+  --accent: #{$accent-dark};
+  --divider: #{$divider-dark};
+  --code-bg: #2c3237;
+}
