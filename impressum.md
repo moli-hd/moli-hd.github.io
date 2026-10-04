@@ -6,28 +6,29 @@ permalink: /impressum/
 
 ## Angaben gemäß § 5 DDG
 
-Banban Wang
-Historiker, Journalist, Dolmetscher
-Bürgerstr. 49/1
-69124 Heidelberg
+Banban Wang\\
+Historiker, Redakteur, Dolmetscher\\
+Bürgerstr. 49/1\\
+69124 Heidelberg\\
 Deutschland
 
 ## Kontakt
 
-Telefon: +49 (0) 1522 2090207
+Telefon: +49 (0) 1522 2090207\\
 E-Mail: moli.hd@protonmail.com
 
 ## Redaktionell verantwortlich
 
-Banban Wang
-Bürgerstr. 49/1
-69124 Heidelberg
-Deutschland
+Banban Wang\\
+Bürgerstr. 49/1\\
+69124 Heidelberg\\
+Deutschland\\
 E-Mail: moli.hd@protonmail.com
 
 ## EU-Streitschlichtung
 
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). Unsere E-Mail-Adresse finden Sie oben im Impressum.
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). \\
+Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
 ## Haftungsausschluss (Disclaimer)
 

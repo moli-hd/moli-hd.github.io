@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Datenschutz
+title: Datenschutzerklärung
 permalink: /datenschutz/
 ---
 
-# Datenschutzerklärung
 
-## 1. Verantwortlicher
+## Verantwortlicher
 
 Verantwortlicher für die Verarbeitung personenbezogener Daten auf dieser Website ist:
 
-**Banban Wang**
-Bürgerstr. 49/1
-69124 Heidelberg
+**Banban Wang**\\
+Bürgerstr. 49/1\\
+69124 Heidelberg\\
 Deutschland
 
 E-Mail: moli.hd@protonmail.com
@@ -21,7 +20,7 @@ Weitere Angaben finden sich im [Impressum]({{site.baseurl}}/impressum/).
 
 ---
 
-## 2. Allgemeine Hinweise
+## Allgemeine Hinweise
 
 Der Schutz Ihrer persönlichen Daten ist mir wichtig. Ich behandle personenbezogene Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften, insbesondere der Datenschutz-Grundverordnung (DSGVO).
 
@@ -29,7 +28,7 @@ Diese Website dient der Information über meine berufliche und wissenschaftliche
 
 ---
 
-## 3. Hosting durch GitHub Pages
+## Hosting durch GitHub Pages
 
 Diese Website wird über **GitHub Pages**, einen Dienst der GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA, gehostet.
 
@@ -43,7 +42,7 @@ Weitere Informationen zur Datenverarbeitung durch GitHub finden Sie in der [Date
 
 ---
 
-## 4. Rechtsgrundlage
+## Rechtsgrundlage
 
 Soweit personenbezogene Daten im Rahmen des Besuchs dieser Website verarbeitet werden, erfolgt die Verarbeitung auf Grundlage der jeweils einschlägigen gesetzlichen Vorschriften.
 
@@ -51,7 +50,7 @@ Soweit die Verarbeitung zur Bereitstellung und zum sicheren Betrieb dieser Websi
 
 ---
 
-## 5. Server-Log-Daten
+## Server-Log-Daten
 
 Beim Besuch dieser Website können technische Zugriffsdaten verarbeitet werden. Hierzu können insbesondere gehören:
 
@@ -67,7 +66,7 @@ Ich selbst betreibe auf dieser Website keine eigene Besucheranalyse und erstelle
 
 ---
 
-## 6. Cookies und Tracking
+## Cookies und Tracking
 
 Diese Website verwendet selbst keine nicht notwendigen Cookies und keine eigenen Tracking- oder Analysewerkzeuge.
 
@@ -77,7 +76,7 @@ Soweit technisch erforderliche Funktionen des Hostings durch GitHub Cookies oder
 
 ---
 
-## 7. Kontaktaufnahme per E-Mail
+## Kontaktaufnahme per E-Mail
 
 Wenn Sie mich per E-Mail kontaktieren, werden die von Ihnen übermittelten personenbezogenen Daten, insbesondere Ihre E-Mail-Adresse und der Inhalt Ihrer Nachricht, zur Bearbeitung Ihrer Anfrage verarbeitet.
 
@@ -87,7 +86,7 @@ Die Daten werden gelöscht, sobald sie für den Zweck der Kommunikation nicht me
 
 ---
 
-## 8. Externe Links
+## Externe Links
 
 Diese Website enthält möglicherweise Links zu Websites Dritter.
 
@@ -97,7 +96,7 @@ Ich empfehle, die Datenschutzerklärungen der jeweiligen externen Websites zu be
 
 ---
 
-## 9. Eingebettete Inhalte
+## Eingebettete Inhalte
 
 Soweit diese Website Inhalte von Drittanbietern einbindet, kann beim Aufruf einer entsprechenden Seite eine Verbindung zu den Servern des jeweiligen Drittanbieters hergestellt werden. Dabei können insbesondere technische Informationen wie die IP-Adresse übermittelt werden.
 
@@ -109,7 +108,7 @@ Derzeit werden auf dieser Website folgende externen Inhalte eingebettet:
 
 ---
 
-## 10. Ihre Rechte
+## Ihre Rechte
 
 Sie haben nach Maßgabe der gesetzlichen Voraussetzungen insbesondere folgende Rechte:
 
@@ -124,7 +123,7 @@ Wenn die Verarbeitung auf Ihrer Einwilligung beruht, können Sie diese Einwillig
 
 ---
 
-## 11. Beschwerderecht bei einer Aufsichtsbehörde
+## Beschwerderecht bei einer Aufsichtsbehörde
 
 Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren.
 
@@ -132,8 +131,8 @@ Die zuständige Aufsichtsbehörde richtet sich insbesondere nach Ihrem Wohn- bzw
 
 ---
 
-## 12. Aktualisierung dieser Datenschutzerklärung
+## Aktualisierung dieser Datenschutzerklärung
 
 Ich behalte mir vor, diese Datenschutzerklärung anzupassen, wenn dies aufgrund rechtlicher, technischer oder organisatorischer Änderungen erforderlich wird.
 
-**Stand: [Monat Jahr]**
+**Stand: Oktober 2026**

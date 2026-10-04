@@ -3,6 +3,7 @@
 title: "Fragmented Musings, or How to (re)Unite with the Dead?"
 date: 2026-09-15
 layout: post
+language: en
 description: for the issue 3 of Crossopollinate
 permalink: /blog/2026/20260915_crossmopollinate/
 ---
@@ -93,7 +94,7 @@ Nevertheless, at least those who are no longer living cannot be entirely exclude
 
 ---
 
-[^2]:  The author thanks friends and colleagues who pushed and forced me to finish this piece. Especially <ruby>ஆரபி<rp>(</rp><rt>Atabi</rt><rp>)</rp> ஞானம்பிரகாசம்<rp>(</rp><rt>Gnanapiragasam</rt><rp>)</rp></ruby>, <ruby>김<rp>(</rp><rt>Kim</rt><rp>)</rp>인아<rp>(</rp><rt>Inah</rt><rp>)</rp></ruby>, Rishika Rai, <ruby>皮<rp>(</rp><rt>pí</rt><rp>)</rp>晨<rp>(</rp><rt>chén</rt><rp>)</rp>瑩<rp>(</rp><rt>yíng</rt><rp>)</rp></ruby>, <ruby>溫<rp>(</rp><rt>wēn</rt><rp>)</rp>心<rp>(</rp><rt>xīn</rt><rp>)</rp>怡<rp>(</rp><rt>yí</rt><rp>)</rp></ruby>, <ruby>謝<rp>(</rp><rt>xiè</rt><rp>) </rp > 韻<rp> (</rp><rt>yùn</rt><rp>)</rp></ruby>. My love for these people is not to be buried.
+[^2]:  The author thanks friends and colleagues who pushed and forced me to finish this piece. Especially <ruby>ஆரபி<rp>(</rp><rt>Atabi</rt><rp>)</rp> ஞானம்பிரகாசம்<rp>(</rp><rt>Gnanapiragasam</rt><rp>)</rp></ruby>, <ruby>김<rp>(</rp><rt>Kim</rt><rp>)</rp>인아<rp>(</rp><rt>Inah</rt><rp>)</rp></ruby>, <ruby>ऋषिका<rp>(</rp><rt>Rishika</rt><rp>)</rp> राय<rp>(</rp><rt>Rai</rt><rp>)</rp></ruby>, <ruby>皮<rp>(</rp><rt>pí</rt><rp>)</rp>晨<rp>(</rp><rt>chén</rt><rp>)</rp>莹<rp>(</rp><rt>yíng</rt><rp>)</rp></ruby>, <ruby>温<rp>(</rp><rt>wēn</rt><rp>)</rp>心<rp>(</rp><rt>xīn</rt><rp>)</rp>怡<rp>(</rp><rt>yí</rt><rp>)</rp></ruby>, <ruby>谢<rp>(</rp><rt>xiè</rt><rp>) </rp > 韵<rp> (</rp><rt>yùn</rt><rp>)</rp></ruby>. My love for these people is not to be buried.
 
 [^3]:  The concept <ruby>人事檔案<rp>(</rp><rt>rénshì dàng'àn</rt><rp>)</rp></ruby>, literally «archived records about a personnel», is part of the human resource and household control system in China since the Maoist era and remains important in bureaucratic systems and everyday life.
 

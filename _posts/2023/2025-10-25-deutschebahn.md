@@ -4,6 +4,7 @@ title:  "德鐵歷險記"
 date: 2025-10-25
 tags: daily
 permalink: /blog/2025/20251025_deutschebahn
+language: zh
 
 ---
 

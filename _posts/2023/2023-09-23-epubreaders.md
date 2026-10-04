@@ -4,6 +4,7 @@ title: My epub readers
 date: 2023-09-23 21:01:00
 description: on iOS and on Android
 tags: life
+language: en
 categories: life
 permalink: /blog/2023/20230923_epubreaders/
 ---

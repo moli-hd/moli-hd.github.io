@@ -4,6 +4,7 @@ layout: post
 title:  "平淡的无望"
 date: 2026-05-19
 tags: daily
+language: zh
 permalink: /blog/2026/20260519_desperation
 
 ---
@@ -22,3 +23,5 @@ Every week new productions with no stop for fifteen weeks.
 I even don’t understand how I made it one year ago 🤦🏻
 And in a working space where anxiety and depression is not understood or acknowledged, it seems tough to explain everything.
 No, I’m not doing well, and I feel even more terrible when saying this out, because there seems to be no solution. Simply saying «you need a break» is not enough. I know, I of course know. But who will take over my work ?
+
+(no, the Chinese and the English versions do NOT match!)
