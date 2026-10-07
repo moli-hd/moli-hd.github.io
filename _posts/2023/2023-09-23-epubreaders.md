@@ -2,7 +2,7 @@
 layout: post
 title: My epub readers
 date: 2023-09-23 21:01:00
-description: on iOS and on Android
+description: A review of EPUB readers
 tags: life
 language: en
 categories: life
@@ -20,8 +20,15 @@ Materiality? You know, e-Books can have much materiality as well.
 I have used many reader Apps, both on my iPad and on my phone (Pixel and iPhone).
 As everyone has their workflow and style, it may fit you or not...
 
-# Apple Books (Mac, iOS, iPadOS)
+## Apple Books (Mac, iOS, iPadOS)
 
 Apple Books has been one of the default choices for ePub reading as it's designed for it.
-As with many Apple apps, the Books is minimalist, enclosed in the Apple biosystem, and has a nice taste of typography.
-On iPadOS, the scrolling mode is my favourite: I think the materiality of eBook is that we don't need to be limited in the page size and 
+As with many Apple apps, the Books is minimalist, enclosed in the Apple biosystem, and has a nice taste of typography. I really like the set of fonts it preinstalled. 
+On iPadOS, the scrolling mode is my favourite: I think the materiality of eBook is that we don't need to be limited in page size or diagram counts, but words can flow on the screen. 
+
+## Zotero readers 
+
+Zotero's Epub reader makes perfect sense if you wanna mark out specific sentences or write notes that you are going to use in proper research. It is minimalist but with complicated customisation options in Zotero Settings. The Sepia is a bit too yellowish for me, but 
+
+
+## Epub viewer pro (macOS)
